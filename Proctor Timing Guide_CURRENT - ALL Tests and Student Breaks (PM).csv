@@ -1,0 +1,53 @@
+Time,Test,Section,What
+1:00,PROCTOR,Arrive and set up for test,
+2:00,All,1,Tests begin
+2:20,Hybrid ACT/SAT,1a (25m),5 min warning
+2:25,Hybrid ACT/SAT,1b (20m),"Finish, begin Section 1: SAT Writing and Language"
+2:40,ACT,1 (45m),5 min warning
+2:40,Hybrid ACT/SAT,1b (20m),5 min warning
+2:45,ACT,2 (60m),"Finish, begin Section 2: Math"
+2:45,Hybrid ACT/SAT,2a (13m),"Finish, begin Section 2: SAT Math - No Calculator"
+2:53,Hybrid ACT/SAT,2a (13m),5 min warning
+2:55,PSAT,1 (60m),5 min warning
+2:58,Hybrid ACT/SAT,2b (22m),"Finish, begin Section 2: SAT Math - Calculator"
+3:00,PSAT,BREAK (5m),"Finish, take 5 min break"
+3:00,SAT,1 (65m),5 min warning
+3:05,PSAT,2 (35m),"Finish break, begin Section 2: Writing and Language"
+3:05,SAT,BREAK (10m),"Finish, take 10 min break"
+3:15,Hybrid ACT/SAT,2b (22m),5 min warning
+3:15,SAT,2 (35m),"Finish break, begin Section 2: Writing and Language"
+3:20,Hybrid ACT/SAT,2c (25m),"Finish, begin Section 2: ACT Mathematics"
+3:35,PSAT,2 (35m),5 min warning
+3:40,ACT,2 (60m),5 min warning
+3:40,Hybrid ACT/SAT,2c (25m),5 min warning
+3:40,PSAT,3 (25m),"Finish, begin Section 3: Math - No Calculator"
+3:45,ACT,BREAK (10m),"Finish, take 10 min break"
+3:45,Hybrid ACT/SAT,BREAK (10m),"Finish, take 10 min break"
+3:45,SAT,2 (35m),5 min warning
+3:50,SAT,3 (25m),"Finish, begin Section 3: No-Calculator Math"
+3:55,ACT,3 (35m),"Finish break, begin Section 3: Reading"
+3:55,Hybrid ACT/SAT,3 (35m),"Finish break, begin Section 3: SAT Reading"
+4:00,PSAT,3 (25m),5 min warning
+4:05,PSAT,BREAK (5m),"Finish, take 5 min break"
+4:10,PSAT,4 (45m),"Finish break, begin Section 4: Math - Calculator"
+4:10,SAT,3 (25m),5 min warning
+4:15,SAT,BREAK (5m),"Finish, take 5 min break"
+4:20,SAT,4 (55m),"Finish break, begin Section 4: Calculator Math"
+4:25,ACT,3 (35m),5 min warning
+4:25,Hybrid ACT/SAT,3 (35m),5 min warning
+4:30,ACT,4 (35m),"Finish, begin Section 4: Science"
+4:30,Hybrid ACT/SAT,4 (35m),"Finish, begin Section 4: ACT Reading"
+4:50,PSAT,4 (45m),5 min warning
+4:55,PSAT,4 (45m),Test finished
+5:00,ACT,4 (35m),5 min warning
+5:00,Hybrid ACT/SAT,4 (35m),5 min warning
+5:05,ACT,BREAK (5m),"Finish, take 5 min break (for essay) OR Test Finished"
+5:05,Hybrid ACT/SAT,BREAK (5m),"Finish, take 5 min break"
+5:10,ACT,5 (E) (40m),"Finish break, begin Section 5: Essay"
+5:10,Hybrid ACT/SAT,5 (35m),"Finish break, begin Section 5: ACT Science"
+5:10,SAT,4 (55m),5 min warning
+5:15,SAT,4 (55m),Test finished
+5:40,Hybrid ACT/SAT,5 (35m),5 min warning
+5:45,ACT,5 (E) (40m),5 min warning
+5:45,Hybrid ACT/SAT,5 (35m),Test finished
+5:50,ACT,5 (E) (40m),Test finished
