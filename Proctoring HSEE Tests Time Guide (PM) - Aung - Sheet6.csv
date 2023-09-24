@@ -1,0 +1,102 @@
+Time,Test,Section,What
+9:00,All,1,Tests begin
+9:11,HSPT,1 (16m),5 min warning
+9:13,ISEE (Mid/Up),1 (17.5m),5 min warning
+9:15,ISEE (Low) ERB,1 (20m),5 min warning
+9:15,ISEE (Mid/Up) ERB,1 (20m),5 min warning
+9:16,HSPT,1 (16m),"Finish, begin 2"
+9:18,ISEE (Mid/Up),1 (17.5m),"Finish, begin 2"
+9:19,HSPT Ext Time,1 (24m),5 min warning
+9:20,ISEE (Low) ERB,1 (20m),"Finish, begin 2"
+9:20,ISEE (Mid/Up) ERB,1 (20m),"Finish, begin 2"
+9:20,SSAT,1 (E) (25m),5 min warning
+9:24,HSPT Ext Time,1 (24m),"Finish, begin 2"
+9:25,ISEE (Low),1 (30m),5 min warning
+9:25,SSAT,1 (E) (25m),"Finish, take break"
+9:30,ISEE (Low),1 (30m),"Finish, begin 2"
+9:30,SSAT,2 (30m),"Finish break, begin 2"
+9:33,SSAT Ext Time,1 (E) (38m),5 min warning
+9:38,SSAT Ext Time,1 (E) (38m),"Finish, take break"
+9:41,HSPT,2 (30m),5 min warning
+9:43,ISEE (Mid/Up),2 (30m),5 min warning
+9:43,SSAT Ext Time,2 (45m),"Finish break, begin 2"
+9:46,HSPT,2 (30m),"Finish, take break"
+9:48,ISEE (Mid/Up),2 (30m),"Finish, take break"
+9:50,ISEE (Mid/Up) ERB,2 (35m),5 min warning
+9:50,ISEE (Low) ERB,2 (35m),5 min warning
+9:51,HSPT,3 (25m),"Finish break, begin 3"
+9:53,ISEE (Mid/Up),3 (30m),"Finish break, begin 3"
+9:55,ISEE (Mid/Up) ERB,2 (35m),"Finish, take break"
+9:55,ISEE (Low) ERB,2 (35m),"Finish, take break"
+9:55,SSAT,2 (30m),5 min warning
+10:00,ISEE (Low),2 (35m),5 min warning
+10:00,ISEE (Mid/Up) ERB,3 (35m),"Finish break, begin 3"
+10:00,ISEE (Low) ERB,3 (25m),"Finish break, begin 3"
+10:00,SSAT,2 (30m),"Finish, begin 3"
+10:04,HSPT Ext Time,2 (45m),5 min warning
+10:05,ISEE (Low),2 (35m),"Finish, take break"
+10:09,HSPT Ext Time,2 (45m),"Finish, take break"
+10:10,ISEE (Low),3 (20m),"Finish break, begin 3"
+10:11,HSPT,3 (25m),5 min warning
+10:14,HSPT Ext Time,3 (38m),"Finish break, begin 3"
+10:16,HSPT,3 (25m),"Finish, begin 4"
+10:18,ISEE (Mid/Up),3 (30m),5 min warning
+10:20,ISEE (Low) ERB,3 (25m),5 min warning
+10:23,SSAT Ext Time,2 (45m),5 min warning
+10:23,ISEE (Mid/Up),3 (30m),"Finish, begin 4"
+10:25,ISEE (Low) ERB,3 (25m),"Finish, begin 4"
+10:25,ISEE (Low),3 (20m),5 min warning
+10:28,SSAT Ext Time,2 (45m),"Finish, begin 3"
+10:30,ISEE (Low),3 (20m),"Finish, begin 4"
+10:30,ISEE (Mid/Up) ERB,3 (35m),5 min warning
+10:35,SSAT,3 (40m),5 min warning
+10:35,ISEE (Mid/Up) ERB,3 (35m),"Finish, begin 4"
+10:40,SSAT,3 (40m),"Finish, take break"
+10:45,SSAT,4 (30m),"Finish break, begin 4"
+10:47,HSPT Ext Time,3 (38m),5 min warning
+10:50,ISEE (Low) ERB,4 (30m),5 min warning
+10:50,ISEE (Low),4 (25m),5 min warning
+10:52,HSPT Ext Time,3 (38m),"Finish, begin 4"
+10:54,ISEE (Mid/Up),4 (36m),5 min warning
+10:55,ISEE (Low) ERB,4 (30m),"Finish, take break"
+10:55,ISEE (Low),4 (25m),"Finish, take break"
+10:56,HSPT,4 (45m),5 min warning
+10:59,ISEE (Mid/Up),4 (36m),"Finish, take break"
+11:00,ISEE (Low) ERB,5 (E) (30m),"Finish break,begin 5"
+11:00,ISEE (Low),5 (E) (30m),"Finish break,begin 5"
+11:01,HSPT,4 (45m),"Finish, begin 5"
+11:04,ISEE (Mid/Up),5 (E) (30m),"Finish break,begin 5"
+11:10,SSAT,4 (30m),5 min warning
+11:10,ISEE (Mid/Up) ERB,4 (40m),5 min warning
+11:15,SSAT,4 (30m),"Finish, begin 5"
+11:15,ISEE (Mid/Up) ERB,4 (40m),"Finish, take break"
+11:20,ISEE (Mid/Up) ERB,5 (E) (30m),"Finish break,begin 5"
+11:21,HSPT,5 (25m),5 min warning
+11:23,SSAT Ext Time,3 (60m),5 min warning
+11:25,ISEE (Low) ERB,5 (E) (30m),5 min warning
+11:25,ISEE (Low),5 (E) (30m),5 min warning
+11:26,HSPT,5 (25m),"Finish, take break"
+11:28,SSAT Ext Time,3 (60m),"Finish, take break"
+11:29,ISEE (Mid/Up),5 (E) (30m),5 min warning
+11:30,ISEE (Low) ERB,5 (E) (30m),Test finished
+11:30,ISEE (Low),5 (E) (30m),Test finished
+11:31,HSPT,6 (E) (30m),"Finish break, begin 6"
+11:33,SSAT Ext Time,4 (45m),"Finish break, begin 4"
+11:34,ISEE (Mid/Up),5 (E) (30m),Test finished
+11:40,SSAT,5 (30m),5 min warning
+11:45,ISEE (Mid/Up) ERB,5 (E) (30m),5 min warning
+11:45,SSAT,5 (30m),Test finished
+11:50,ISEE (Mid/Up) ERB,5 (E) (30m),Test finished
+11:55,HSPT Ext Time,4 (68m),5 min warning
+11:56,HSPT,6 (E) (30m),5 min warning
+12:00,HSPT Ext Time,4 (68m),"Finish, begin 5"
+12:01,HSPT,6 (E) (30m),Test finished
+12:13,SSAT Ext Time,4 (45m),5 min warning
+12:18,SSAT Ext Time,4 (45m),"Finish, begin 5"
+12:33,HSPT Ext Time,5 (38m),5 min warning
+12:38,HSPT Ext Time,5 (38m),"Finish, take break"
+12:43,HSPT Ext Time,6 (E) (45m),"Finish break, begin 6"
+12:58,SSAT Ext Time,5 (45m),5 min warning
+1:03,SSAT Ext Time,5 (45m),Test finished
+1:23,HSPT Ext Time,6 (E) (45m),5 min warning
+1:28,HSPT Ext Time,6 (E) (45m),Test finished
